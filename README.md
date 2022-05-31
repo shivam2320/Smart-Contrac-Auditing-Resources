@@ -1,1 +1,48 @@
-# Smart-Contrac-Auditing-Resources
+- Resources
+    - EVM
+        - [https://noxx3xxon.notion.site/The-EVM-Handbook-bb38e175cc404111a391907c4975426d](https://www.notion.so/The-EVM-Handbook-bb38e175cc404111a391907c4975426d)
+        - [https://www.evm.codes/about](https://www.evm.codes/about)
+        - [https://www.learnweb3.io/tracks/sophomore/ethereum-virtual-machine](https://www.learnweb3.io/tracks/sophomore/ethereum-virtual-machine)
+    - YouTube
+        - [https://www.youtube.com/watch?v=P8LXLoTUJ5g](https://www.youtube.com/watch?v=P8LXLoTUJ5g)
+        - [https://www.youtube.com/playlist?list=PLCwnLq3tOElpIi6Gci36PnvrrS8ljBHkq](https://www.youtube.com/playlist?list=PLCwnLq3tOElpIi6Gci36PnvrrS8ljBHkq)
+        - [https://www.youtube.com/watch?v=R1eZCmR91vQ](https://www.youtube.com/watch?v=R1eZCmR91vQ)
+        - [https://www.youtube.com/playlist?list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5](https://www.youtube.com/playlist?list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5)
+        - [https://www.youtube.com/watch?v=WchXkMlKj9w](https://www.youtube.com/watch?v=WchXkMlKj9w)
+    - [https://www.learnweb3.io/tracks/senior](https://www.learnweb3.io/tracks/senior)
+    - [https://twitter.com/0xAsm0d3us/status/1438149310080712709](https://twitter.com/0xAsm0d3us/status/1438149310080712709)
+    - [https://dasp.co/](https://dasp.co/)
+    - [https://blog.yeswehack.com/yeswerhackers/getting-started-smart-contract-bug-bounty/](https://blog.yeswehack.com/yeswerhackers/getting-started-smart-contract-bug-bounty/)
+    - [https://immunefi.com/learn/](https://immunefi.com/learn/)
+    - [https://console-cowboys.blogspot.com/?m=0](https://console-cowboys.blogspot.com/?m=0)
+    - [https://github.com/crytic/not-so-smart-contracts](https://github.com/crytic/not-so-smart-contracts)
+    
+- Attack Types
+    - [https://consensys.github.io/smart-contract-best-practices/attacks/](https://consensys.github.io/smart-contract-best-practices/attacks/)
+    - Re-entrancy
+    - Uninitialized storage pointer
+    - Assert Violation
+    - DoS with failed call
+    - Signature Malleability
+    - Integer overflow and underflow
+    - Access controls
+    - Front running
+    
+- Practice
+    - [https://ethernaut.openzeppelin.com/](https://ethernaut.openzeppelin.com/)
+    - [https://www.damnvulnerabledefi.xyz/](https://www.damnvulnerabledefi.xyz/)
+    - [https://capturetheether.com/challenges/](https://capturetheether.com/challenges/)
+    - [https://ctf.paradigm.xyz/](https://ctf.paradigm.xyz/)
+    - [https://github.com/blockthreat/blocksec-ctfs](https://github.com/blockthreat/blocksec-ctfs)
+    
+- Tools
+    - Slither
+    - Mythx
+    - Mythril
+    
+- Platforms
+    - [https://hackerone.com/directory/programs](https://hackerone.com/directory/programs)
+    - [https://immunefi.com/explore/](https://immunefi.com/explore/)
+    - [https://code4rena.com/](https://code4rena.com/)
+    - [https://hackenproof.com/](https://hackenproof.com/)
+    - [https://www.yeswehack.com/](https://www.yeswehack.com/)
